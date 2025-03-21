@@ -12,8 +12,5 @@
         "dest": "server.js"
       }
     ],
-    "regions": ["iad1"],
-    "engines": {
-      "node": "18.x"
-    }
+    "regions": ["iad1"]
   }
